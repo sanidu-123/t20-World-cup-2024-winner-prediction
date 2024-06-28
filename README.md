@@ -1,8 +1,8 @@
 # T20 Men’s World Cup 2024 Winner prediction
 
 ## data gathering
-* We obtained match details such as team names, match outcomes, margins of victory, toss outcomes, batting orders, opposition teams, venue information, and match start dates
-data source:https://www.espncricinfo.com/
+* We obtained match details such as team names, match outcomes, margins of victory, toss outcomes, batting orders, opposition teams, venue information, and match start dates.
+  data source:https://www.espncricinfo.com/
 * The ICC cricket rankings dataset provides the latest rankings of participating teams, including their positions and corresponding points. This information offers insights into the relative strengths of teams at the time of each match.
 
 ## data sheets
